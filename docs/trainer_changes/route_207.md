@@ -29,7 +29,7 @@ Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | !
 ![][221]<br>[Piloswine]<br>Lv. 29 | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat    | Avalanche, Take Down, Rock Slide, Ice Shard
 ![][036]<br>[Clefable]<br>Lv. 29  | ![][leftovers]<br>Leftovers       | ?      | Cute Charm   | Moonblast, Moonlight, Encore, Thunder Wave
 ![][428]<br>[Lopunny]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Scrappy [^1] | Dizzy Punch, Fake Out, Jump Kick, Quick Attack
-![][388]<br>[Grotle]<br>Lv. 30    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Seed Bomb, Body Slam, Leech Seed, Sand Tomb
+![][388]<br>[Grotle]<br>Lv. 30    | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow     | Seed Bomb, Body Slam, Leech Seed, Bulldoze
 ![][391]<br>[Monferno]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist    | Flamethrower, Fake Out, Mach Punch, Grass Knot
 ![][394]<br>[Prinplup]<br>Lv. 30  | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent      | Bubble Beam, Icy Wind, Brick Break, Shadow Claw
 
@@ -43,7 +43,7 @@ Hiker Kevin                              | ![][206]<br>[Dunsparce]<br>Lv. 25 | !
 ![][221]<br>[Piloswine]<br>Lv. 29  | ![][focus-sash]<br>Focus Sash     | ?      | Thick Fat  | Avalanche, Take Down, Rock Slide, Ice Shard
 ![][210]<br>[Granbull]<br>Lv. 29   | ![][muscle-band]<br>Muscle Band   | ?      | Intimidate | Play Rough, Fire Fang, Thunder Fang, Ice Fang
 ![][463]<br>[Lickilicky]<br>Lv. 29 | ![][leftovers]<br>Leftovers       | ?      | Own Tempo  | Slam, Magnitude, Knock Off, Protect
-![][388]<br>[Grotle]<br>Lv. 30     | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | Seed Bomb, Body Slam, Leech Seed, Sand Tomb
+![][388]<br>[Grotle]<br>Lv. 30     | ![][sitrus-berry]<br>Sitrus Berry | ?      | Overgrow   | Seed Bomb, Body Slam, Leech Seed, Bulldoze
 ![][391]<br>[Monferno]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Iron Fist  | Flamethrower, Fake Out, Mach Punch, Grass Knot
 ![][394]<br>[Prinplup]<br>Lv. 30   | ![][sitrus-berry]<br>Sitrus Berry | ?      | Torrent    | Bubble Beam, Icy Wind, Brick Break, Shadow Claw
 
